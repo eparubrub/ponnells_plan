@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ponells_plan/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ponells_plan/static/js/main.d1349325.chunk.js",
+    "main.js.map": "/ponells_plan/static/js/main.d1349325.chunk.js.map",
+    "runtime~main.js": "/ponells_plan/static/js/runtime~main.c4b42980.js",
+    "runtime~main.js.map": "/ponells_plan/static/js/runtime~main.c4b42980.js.map",
+    "static/js/2.b41502e9.chunk.js": "/ponells_plan/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/ponells_plan/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/ponells_plan/index.html",
+    "precache-manifest.e9d59de354cd8633704d455482b5b39d.js": "/ponells_plan/precache-manifest.e9d59de354cd8633704d455482b5b39d.js",
+    "service-worker.js": "/ponells_plan/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/ponells_plan/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/ponells_plan/static/media/logo.5d5d9eef.svg"
+  }
+}
