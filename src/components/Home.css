@@ -9,12 +9,12 @@
 }
 
 .section{
-  height: 1200px;
+  height: 900px;
   width: 100%;
 }
 
 .section_grey{
-  height: 1200px;
+  height: 900px;
   width: 100%;
   background-color: #E8E8E8;
 }
@@ -24,7 +24,7 @@
   top: 25%;
   left: 5%;
   width: 30%;
-  font-size: 20px;
+  font-size: 14px;
 }
 
 .text_section_right{
@@ -32,14 +32,14 @@
   left: 55%;
   width: 37%;
   top: 40%;
-  font-size: 20px;
+  font-size: 14px;
 }
 
 .image_section_right{
   position: relative;
   left: 55%;
-  width: 37%;
-  bottom: 200px;
+  width: 600px;
+  bottom: 150px;
 }
 
 .image_section_left{
@@ -50,7 +50,7 @@
 }
 
 .text_section_title{
-  font-size: 60px;
+  font-size: 40px;
 }
 
 

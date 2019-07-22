@@ -11,7 +11,7 @@ class Navbar extends Component {
     componentDidMount(){
         window.addEventListener('scroll', () => {
             let activeClass = 'normal';
-            if(window.scrollY > 400){
+            if(window.scrollY > 300){
                 activeClass = 'background';
             }
             this.setState({ activeClass });
