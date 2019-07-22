@@ -9,12 +9,12 @@
 }
 
 .section{
-  height: 900px;
+  height: 700px;
   width: 100%;
 }
 
 .section_grey{
-  height: 900px;
+  height: 700px;
   width: 100%;
   background-color: #E8E8E8;
 }
@@ -44,7 +44,7 @@
 
 .image_section_left{
   position: relative;
-  top:25%;
+  bottom: 75px;
   left: 5%;
   width: 30%;
 }
