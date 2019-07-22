@@ -1,0 +1,33 @@
+.logo{
+    margin-left: 40px;
+    width: 400px;
+}
+
+nav{
+    height: 120px;
+}
+
+nav a{
+    color: white;
+    font-size: 40px
+}
+
+.nav-link{
+    margin-right: 40px;
+    margin-top: 10px;
+}
+
+.navbar-nav.ml-auto{
+    margin-right: 50px;
+}
+
+.background{
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    background-color: #303030;
+}
+
+.normal{
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}

@@ -1,0 +1,69 @@
+
+.body{
+  margin-top: 300px;
+}
+
+.profile-pic {
+  width: 75%;
+  margin-bottom: 30px;
+}
+
+.section{
+  height: 1200px;
+  width: 100%;
+}
+
+.section_grey{
+  height: 1200px;
+  width: 100%;
+  background-color: #E8E8E8;
+}
+
+.text_section_left{
+  position: relative;
+  top: 25%;
+  left: 5%;
+  width: 30%;
+  font-size: 20px;
+}
+
+.text_section_right{
+  position: relative;
+  left: 55%;
+  width: 37%;
+  top: 40%;
+  font-size: 20px;
+}
+
+.image_section_right{
+  position: relative;
+  left: 55%;
+  width: 37%;
+  bottom: 200px;
+}
+
+.image_section_left{
+  position: relative;
+  top:25%;
+  left: 5%;
+  width: 30%;
+}
+
+.text_section_title{
+  font-size: 60px;
+}
+
+
+.background-image{
+  width: 100%;
+  height: 100%;
+}
+
+.text_section_middle{
+  position: relative;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
