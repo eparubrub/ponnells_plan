@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ponells_plan/static/css/main.0e045cc3.chunk.css",
-    "main.js": "/ponells_plan/static/js/main.aca0a445.chunk.js",
-    "main.js.map": "/ponells_plan/static/js/main.aca0a445.chunk.js.map",
+    "main.css": "/ponells_plan/static/css/main.ca430465.chunk.css",
+    "main.js": "/ponells_plan/static/js/main.9889095a.chunk.js",
+    "main.js.map": "/ponells_plan/static/js/main.9889095a.chunk.js.map",
     "runtime~main.js": "/ponells_plan/static/js/runtime~main.c4b42980.js",
     "runtime~main.js.map": "/ponells_plan/static/js/runtime~main.c4b42980.js.map",
     "static/css/2.266e55a5.chunk.css": "/ponells_plan/static/css/2.266e55a5.chunk.css",
-    "static/js/2.035f82f8.chunk.js": "/ponells_plan/static/js/2.035f82f8.chunk.js",
-    "static/js/2.035f82f8.chunk.js.map": "/ponells_plan/static/js/2.035f82f8.chunk.js.map",
+    "static/js/2.a4048161.chunk.js": "/ponells_plan/static/js/2.a4048161.chunk.js",
+    "static/js/2.a4048161.chunk.js.map": "/ponells_plan/static/js/2.a4048161.chunk.js.map",
     "index.html": "/ponells_plan/index.html",
-    "precache-manifest.b94093380d983458de82fa43f62acaee.js": "/ponells_plan/precache-manifest.b94093380d983458de82fa43f62acaee.js",
+    "precache-manifest.407a557b01f335584aeeeb1e99d2ced4.js": "/ponells_plan/precache-manifest.407a557b01f335584aeeeb1e99d2ced4.js",
     "service-worker.js": "/ponells_plan/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/ponells_plan/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.0e045cc3.chunk.css.map": "/ponells_plan/static/css/main.0e045cc3.chunk.css.map"
+    "static/css/main.ca430465.chunk.css.map": "/ponells_plan/static/css/main.ca430465.chunk.css.map"
   }
 }
