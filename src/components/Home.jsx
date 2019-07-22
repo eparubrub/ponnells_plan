@@ -5,7 +5,7 @@ export default class Home extends Component {
   render() {
     return (
       <div>
-        <img class="background-image" src="assets/Hawaii.jpg"/>
+        {/* <img class="background-image" src="assets/Hawaii.jpg"/>
             
             <a name="howitworks"></a>
             <div class="section">
