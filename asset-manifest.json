@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ponells_plan/static/css/main.8fb7cae0.chunk.css",
-    "main.js": "/ponells_plan/static/js/main.717ba77d.chunk.js",
-    "main.js.map": "/ponells_plan/static/js/main.717ba77d.chunk.js.map",
+    "main.js": "/ponells_plan/static/js/main.61f1de59.chunk.js",
+    "main.js.map": "/ponells_plan/static/js/main.61f1de59.chunk.js.map",
     "runtime~main.js": "/ponells_plan/static/js/runtime~main.c4b42980.js",
     "runtime~main.js.map": "/ponells_plan/static/js/runtime~main.c4b42980.js.map",
     "static/css/2.266e55a5.chunk.css": "/ponells_plan/static/css/2.266e55a5.chunk.css",
     "static/js/2.1ba0f780.chunk.js": "/ponells_plan/static/js/2.1ba0f780.chunk.js",
     "static/js/2.1ba0f780.chunk.js.map": "/ponells_plan/static/js/2.1ba0f780.chunk.js.map",
     "index.html": "/ponells_plan/index.html",
-    "precache-manifest.64082d53a7faaebb32c470ab8b36bc1f.js": "/ponells_plan/precache-manifest.64082d53a7faaebb32c470ab8b36bc1f.js",
+    "precache-manifest.358d6e7218cbd629d02a8a0b82b4d67f.js": "/ponells_plan/precache-manifest.358d6e7218cbd629d02a8a0b82b4d67f.js",
     "service-worker.js": "/ponells_plan/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/ponells_plan/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.8fb7cae0.chunk.css.map": "/ponells_plan/static/css/main.8fb7cae0.chunk.css.map"
