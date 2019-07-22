@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ponells_plan/static/css/main.930297aa.chunk.css",
-    "main.js": "/ponells_plan/static/js/main.b1badf3b.chunk.js",
-    "main.js.map": "/ponells_plan/static/js/main.b1badf3b.chunk.js.map",
+    "main.js": "/ponells_plan/static/js/main.65c50920.chunk.js",
+    "main.js.map": "/ponells_plan/static/js/main.65c50920.chunk.js.map",
     "runtime~main.js": "/ponells_plan/static/js/runtime~main.c4b42980.js",
     "runtime~main.js.map": "/ponells_plan/static/js/runtime~main.c4b42980.js.map",
     "static/css/2.266e55a5.chunk.css": "/ponells_plan/static/css/2.266e55a5.chunk.css",
     "static/js/2.1ba0f780.chunk.js": "/ponells_plan/static/js/2.1ba0f780.chunk.js",
     "static/js/2.1ba0f780.chunk.js.map": "/ponells_plan/static/js/2.1ba0f780.chunk.js.map",
     "index.html": "/ponells_plan/index.html",
-    "precache-manifest.9e05ce3fca53c3c11d67cf2d281c2fcd.js": "/ponells_plan/precache-manifest.9e05ce3fca53c3c11d67cf2d281c2fcd.js",
+    "precache-manifest.746cd96041a722725e06f7c05a6cf79d.js": "/ponells_plan/precache-manifest.746cd96041a722725e06f7c05a6cf79d.js",
     "service-worker.js": "/ponells_plan/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/ponells_plan/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.930297aa.chunk.css.map": "/ponells_plan/static/css/main.930297aa.chunk.css.map"
