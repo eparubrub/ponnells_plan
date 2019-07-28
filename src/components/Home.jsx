@@ -1,11 +1,15 @@
 import React, { Component } from 'react'
 import './Home.css';
+import NavBar from './NavBar.jsx'
+
 
 export default class Home extends Component {
   render() {
     return (
       <div>
-        {/* <img class="background-image" src="assets/Hawaii.jpg"/>
+        <div>
+        <NavBar/>
+        <img class="background-image" src="assets/Hawaii.jpg"/>
             
             <a name="howitworks"></a>
             <div class="section">
@@ -19,16 +23,19 @@ export default class Home extends Component {
 
             <a name="booking"></a>
             <div class="section_grey">
-              <div class="text_section_middle">
-                <h1 class="text_section_title">"Insert Calendy Here"</h1>
+              <div class="calendly">
+                <div 
+                      className="calendly-inline-widget"
+                      data-url="https://calendly.com/username"
+                      style={{ minWidth: '320px', height: '750px' }} />
               </div>
             </div>
 
             <a name="reviews"></a>
             <div class="section">
               <div class="text_section_middle">
-                <h1 class="text_section_title">"Insert Reviews Here"</h1>
-              </div>
+              <script language="javascript" src="http://i1.inwidgets.com/1-ponnellsplan.js"></script>
+               </div>
             </div>
 
             <a name="ashley"></a>
@@ -40,9 +47,7 @@ export default class Home extends Component {
               </div>
               <img class="image_section_left" src="assets/Ashley.jpg"/>
             </div>
-
-            {/* <div class="section"> */}
-
+        </div>
       </div>
     )
   }

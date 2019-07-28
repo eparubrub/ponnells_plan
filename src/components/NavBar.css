@@ -1,10 +1,10 @@
 .logo{
     margin-left: 40px;
-    width: 300px;
+    width: 240px;
 }
 
 nav{
-    height: 120px;
+    height: 70px;
 }
 
 nav a{
@@ -14,7 +14,6 @@ nav a{
 
 .nav-link{
     margin-right: 40px;
-    margin-top: 10px;
 }
 
 .navbar-nav.ml-auto{
@@ -28,6 +27,7 @@ nav a{
 }
 
 .normal{
+    height: 120px;
     transition-duration: 1s;
     transition-timing-function: ease;
 }
