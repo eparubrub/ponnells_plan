@@ -62,14 +62,24 @@
   height: 100%;
 }
 
-.text_section_middle{
+.review_text_section{
+  width: 10%;
+  top: 0%;
+  bottom: 50%;
+  right: 0%;
+  float: right;
+  font-size: 14px;
+}
+
+.instagram_feed{
   position: relative;
-  left: 0;
-  top: 50%;
-  width: 100%;
+  top: 15%;
+  width: 50%;
   text-align: center;
   font-size: 18px;
 }
+
+
 
 .calendly{
   padding-top: 3%;
