@@ -19,6 +19,12 @@
   background-color: #E8E8E8;
 }
 
+.section_grey_light{
+  height: 700px;
+  width: 100%;
+  background-color: #F5F5F5;
+}
+
 .text_section_left{
   position: relative;
   top: 25%;

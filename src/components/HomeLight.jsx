@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 import './Home.css';
-import NavBar from './NavBar.jsx'
+import NavBarLight from './NavBarLight.jsx'
 
 
-class Home extends Component {
+class HomeLight extends Component {
   componentDidMount() {
     const head = document.querySelector('head');
     const script = document.createElement('script');
@@ -17,7 +17,7 @@ class Home extends Component {
   render() {
     return (
       <div>
-      <NavBar/>
+      <NavBarLight/>
       <img class="background-image" src="assets/Hawaii.jpg"/>
           
           <a name="howitworks"></a>
@@ -31,7 +31,7 @@ class Home extends Component {
           </div>
 
           <a name="booking"></a>
-          <div class="section_grey">
+          <div class="section_grey_light">
             <div class="calendly">
               <div 
                     className="calendly-inline-widget"
@@ -55,7 +55,7 @@ class Home extends Component {
           </div>
 
           <a name="Ashley"></a>
-          <div class="section_grey">
+          <div class="section_grey_light">
             <div class="text_section_left">
               <h1 class="text_section_title">Ashley P. Walker</h1>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus tempus nisi eget congue. Vivamus id nisi erat. Curabitur sit amet volutpat risus. Donec sit amet cursus est. Vivamus facilisis sem lorem, eu lacinia eros vulputate sit amet. Donec dignissim posuere orci, sed tempus neque. Nullam quis elementum ante, posuere euismod neque. Mauris tellus risus, tempor vel ante eu, venenatis vestibulum urna. Ut eu aliquam nibh. Suspendisse potenti. Sed enim nibh, tristique eu ligula ac, imperdiet convallis ipsum.
@@ -75,7 +75,7 @@ class Home extends Component {
           </div>
 
           <a name="Emmit"></a>
-          <div class="section_grey">
+          <div class="section_grey_light">
             <div class="text_section_left">
               <h1 class="text_section_title">Emmit Parubrub</h1>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus tempus nisi eget congue. Vivamus id nisi erat. Curabitur sit amet volutpat risus. Donec sit amet cursus est. Vivamus facilisis sem lorem, eu lacinia eros vulputate sit amet. Donec dignissim posuere orci, sed tempus neque. Nullam quis elementum ante, posuere euismod neque. Mauris tellus risus, tempor vel ante eu, venenatis vestibulum urna. Ut eu aliquam nibh. Suspendisse potenti. Sed enim nibh, tristique eu ligula ac, imperdiet convallis ipsum.
@@ -87,4 +87,4 @@ class Home extends Component {
     )
   }
 }
-export default Home
+export default HomeLight
