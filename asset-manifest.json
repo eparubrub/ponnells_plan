@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ponells_plan/static/css/main.960cba8f.chunk.css",
-    "main.js": "/ponells_plan/static/js/main.2f0da144.chunk.js",
-    "main.js.map": "/ponells_plan/static/js/main.2f0da144.chunk.js.map",
-    "runtime~main.js": "/ponells_plan/static/js/runtime~main.c4b42980.js",
-    "runtime~main.js.map": "/ponells_plan/static/js/runtime~main.c4b42980.js.map",
-    "static/css/2.266e55a5.chunk.css": "/ponells_plan/static/css/2.266e55a5.chunk.css",
-    "static/js/2.5c3b22be.chunk.js": "/ponells_plan/static/js/2.5c3b22be.chunk.js",
-    "static/js/2.5c3b22be.chunk.js.map": "/ponells_plan/static/js/2.5c3b22be.chunk.js.map",
-    "index.html": "/ponells_plan/index.html",
-    "precache-manifest.b3078a502b6a8e7e6947f41554694eae.js": "/ponells_plan/precache-manifest.b3078a502b6a8e7e6947f41554694eae.js",
-    "service-worker.js": "/ponells_plan/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/ponells_plan/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.960cba8f.chunk.css.map": "/ponells_plan/static/css/main.960cba8f.chunk.css.map"
+    "main.css": "/ponnells_plan/static/css/main.b22b4f32.chunk.css",
+    "main.js": "/ponnells_plan/static/js/main.335cd2a9.chunk.js",
+    "main.js.map": "/ponnells_plan/static/js/main.335cd2a9.chunk.js.map",
+    "runtime~main.js": "/ponnells_plan/static/js/runtime~main.d50a3b02.js",
+    "runtime~main.js.map": "/ponnells_plan/static/js/runtime~main.d50a3b02.js.map",
+    "static/css/2.266e55a5.chunk.css": "/ponnells_plan/static/css/2.266e55a5.chunk.css",
+    "static/js/2.61b6dae8.chunk.js": "/ponnells_plan/static/js/2.61b6dae8.chunk.js",
+    "static/js/2.61b6dae8.chunk.js.map": "/ponnells_plan/static/js/2.61b6dae8.chunk.js.map",
+    "index.html": "/ponnells_plan/index.html",
+    "precache-manifest.9e0f3a73a59d16c40d458ab4c5752c64.js": "/ponnells_plan/precache-manifest.9e0f3a73a59d16c40d458ab4c5752c64.js",
+    "service-worker.js": "/ponnells_plan/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/ponnells_plan/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.b22b4f32.chunk.css.map": "/ponnells_plan/static/css/main.b22b4f32.chunk.css.map"
   }
 }
