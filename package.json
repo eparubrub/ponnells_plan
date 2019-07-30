@@ -2,7 +2,7 @@
   "name": "ponells_plan",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eparubrub.github.io/ponells_plan/",
+  "homepage": "https://eparubrub.github.io/ponnells_plan/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "build": "^0.1.4",

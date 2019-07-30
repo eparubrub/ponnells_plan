@@ -21,7 +21,7 @@
 
 .text_section_left{
   position: relative;
-  top: 20%;
+  top: 25%;
   left: 5%;
   width: 35%;
   float: left;
@@ -43,6 +43,14 @@
   right: 5%;
   float: right;
   width: 35%;
+}
+
+.image_section_right_emmit{
+  position: relative;
+  top: 25%;
+  right: 5%;
+  float: right;
+  width: 27%;
 }
 
 .image_section_left{
@@ -78,8 +86,6 @@
   text-align: center;
   font-size: 18px;
 }
-
-
 
 .calendly{
   padding-top: 3%;

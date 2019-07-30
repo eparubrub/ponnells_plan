@@ -26,7 +26,7 @@ class Navbar extends Component {
                     <li class="nav-item"><a class="nav-link" href="#howitworks">How it Works</a></li>
                     <li class="nav-item"><a class="nav-link" href="#booking">Booking</a></li>
                     <li class="nav-item"><a class="nav-link" href="#reviews">Reviews</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#ashley">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#Ashley">Meet the Team</a></li>
                 </ul>
         </nav>
         );
