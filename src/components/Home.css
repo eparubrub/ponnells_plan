@@ -1,6 +1,6 @@
 
 .body{
-  min-width: 1000px;
+  min-width: 550px;
 }
 
 .profile-pic {
@@ -8,8 +8,12 @@
   margin-bottom: 30px;
 }
 
+
 .section{
-  height: 700px;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  min-height: 900px;
   width: 100%;
 }
 
@@ -20,55 +24,50 @@
 } */
 
 .section_grey_light{
-  height: 700px;
+  background-color: #D3D3D3;
+  display: flex;
+  justify-content: space-around;
+  min-height: 900px;
   width: 100%;
-  background-color: #F5F5F5;
+}
+
+.text_then_image{
+  flex-flow: row wrap-reverse;  
+}
+
+.image_then_text{
+  flex-flow: row wrap; 
+}
+
+.section_calendy{
+  background-color: #D3D3D3;
 }
 
 .text_section_left{
-  position: relative;
-  top: 25%;
-  left: 5%;
-  width: 35%;
+  margin: auto;
+  padding: 40px;
+  width: 800px;
+  /* flex-grow: 1; */
   float: left;
-  font-size: 14px;
 }
 
 .text_section_right{
-  position: relative;
-  width: 35%;
-  top: 20%;
-  right: 5%;
+  margin: auto;
+  padding: 40px;
+  width: 800px;
   float: right;
-  font-size: 14px;
 }
 
-.image_section_right{
-  position: relative;
-  top: 25%;
-  right: 5%;
-  float: right;
-  width: 35%;
-}
-
-.image_section_right_emmit{
-  position: relative;
-  top: 25%;
-  right: 5%;
-  float: right;
-  width: 27%;
-}
-
-.image_section_left{
-  position: relative;
-  top: 20%;
-  left: 5%;
-  width: 35%;
-  float: left;
+.image_section{
+  margin: auto;
+  max-width: 700px;
+  max-height: 500px;
+  padding: 40px;
+  /* float: right; */
 }
 
 .text_section_title{
-  font-size: 40px;
+  font-size: 5em;
 }
 
 .background-image{
@@ -86,13 +85,19 @@
 }
 
 .instagram_feed{
-  position: relative;
-  top: 15%;
-  width: 50%;
-  text-align: center;
-  font-size: 18px;
+  margin: auto;
+  min-width: 600px;
+  padding: 30px;
 }
 
 .calendly{
   padding-top: 3%;
 }
+
+@media(max-width:700px){
+  .image_section{
+    width: 90vw;
+  }
+}
+
+

@@ -5,6 +5,7 @@
 
 nav{
     height: 12%;
+    text-align: center
 }
 
 li{
@@ -21,16 +22,10 @@ nav a{
 
 @media(max-width:1000px){
     .nav-link{display:none}
-    .logo{ position: relative;
-        /* left: 150%;
-        width: 200px;} */
-        padding-left: 25%;
-        width: 70%;}
+    .logo{ 
+        position: relative;
+        width: 50%;}
 }
-
-/* .navbar-nav.ml-auto{
-    margin-right: 50px;
-} */
 
 .background{
     transition-duration: 1s;
