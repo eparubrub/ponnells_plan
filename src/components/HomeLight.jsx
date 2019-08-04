@@ -30,7 +30,7 @@ class HomeLight extends Component {
             <img className="image_section" src="assets/meeting.jpg"/>
           </div>
 
-          <a id="booking"></a>
+          {/* <a id="booking"></a>
           <div class="section_calendy">
             <div class="calendly">
               <div 
@@ -38,7 +38,7 @@ class HomeLight extends Component {
                     data-url="https://calendly.com/username"
                     style={{ minWidth: '320px', height: '750px' }} />
             </div>
-          </div>
+          </div> */}
 
           <a name="reviews"></a>
           <div class="section image_then_text">
@@ -48,7 +48,7 @@ class HomeLight extends Component {
              </div>
              <div class="text_section_right">
                   <h1 class="text_section_title">Reviews/Social Media</h1>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus tempus nisi eget congue. Vivamus id nisi erat. Curabitur sit amet volutpat risus. Donec sit amet cursus est. Vivamus facilisis sem lorem, eu lacinia eros vulputate sit amet. Donec dignissim posuere orci, sed tempus neque. Nullam quis elementum ante, posuere euismod neque. Mauris tellus risus, tempor vel ante eu, venenatis vestibulum urna. Ut eu aliquam nibh. Suspendisse potenti. Sed enim nibh, tristique eu ligula ac, imperdiet convallis ipsum.
+                  <p className="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus tempus nisi eget congue. Vivamus id nisi erat. Curabitur sit amet volutpat risus. Donec sit amet cursus est. Vivamus facilisis sem lorem, eu lacinia eros vulputate sit amet. Donec dignissim posuere orci, sed tempus neque. Nullam quis elementum ante, posuere euismod neque. Mauris tellus risus, tempor vel ante eu, venenatis vestibulum urna. Ut eu aliquam nibh. Suspendisse potenti. Sed enim nibh, tristique eu ligula ac, imperdiet convallis ipsum.
                       Pellentesque vel luctus arcu. Suspendisse vitae nibh metus. Curabitur id velit nec magna dignissim imperdiet. Fusce vitae augue elit. Vivamus sagittis pulvinar massa vitae sagittis. Pellentesque ac lacinia lectus, sit amet fermentum turpis. Ut sit amet congue tellus. Pellentesque consectetur lectus et mollis ultricies. Aliquam cursus erat id commodo facilisis. Phasellus velit nisl, condimentum vitae tincidunt in, venenatis nec nisl.</p>
                 </div>
              
