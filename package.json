@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://eparubrub.github.io/ponnells_plan/",
   "dependencies": {
+    "@material-ui/core": "^4.3.0",
     "bootstrap": "^4.3.1",
     "build": "^0.1.4",
     "gh-pages": "^2.0.1",

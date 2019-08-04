@@ -1,6 +1,6 @@
 
 .body{
-  margin-top: 300px;
+  min-width: 1000px;
 }
 
 .profile-pic {
@@ -13,11 +13,11 @@
   width: 100%;
 }
 
-.section_grey{
+/* .section_grey{
   height: 700px;
   width: 100%;
   background-color: #E8E8E8;
-}
+} */
 
 .section_grey_light{
   height: 700px;

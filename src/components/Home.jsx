@@ -30,7 +30,7 @@ class Home extends Component {
             <img class="image_section_right" src="assets/meeting.jpg"/>
           </div>
 
-          <a name="booking"></a>
+          <a id="booking"></a>
           <div class="section_grey">
             <div class="calendly">
               <div 

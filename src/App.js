@@ -10,8 +10,8 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Route path="/" exact component={Home}/>
-        <Route path="/light" component={HomeLight}/>
+        <Route path="/light" exact component={Home}/>
+        <Route path="/" component={HomeLight}/>
       </div>
     </Router>
   );

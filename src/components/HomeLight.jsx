@@ -16,7 +16,7 @@ class HomeLight extends Component {
 
   render() {
     return (
-      <div>
+      <div class="body">
       <NavBarLight/>
       <img class="background-image" src="assets/Hawaii.jpg"/>
           
@@ -30,7 +30,7 @@ class HomeLight extends Component {
             <img class="image_section_right" src="assets/meeting.jpg"/>
           </div>
 
-          <a name="booking"></a>
+          <a id="booking"></a>
           <div class="section_grey_light">
             <div class="calendly">
               <div 
