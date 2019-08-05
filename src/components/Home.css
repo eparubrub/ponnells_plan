@@ -90,19 +90,19 @@
 
 @media(max-width:1000px){
   .instagram_feed{
-    width: 90%;
+    width: 90vw;
     margin: 0 0 10px 0;
   }
   .image_section{
-    width: 90%;
+    width: 90vw;
     margin: 0 0 10px 0;
   }
   .text_section_left{
-    width: 90%;
+    width: 90vw;
     margin: 0 0 10px 0;
   }
   .text_section_right{
-    width: 90%;
+    width: 90vw;
     margin: 0 0 10px 0;
   }
 }
