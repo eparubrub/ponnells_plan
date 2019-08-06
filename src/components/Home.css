@@ -109,17 +109,20 @@
 }
 
 @media(max-width:425px){
-  .section{
-    background-color: white;
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
+  .instagram_feed{
+    width: 70%;
+    margin: 0 0 10px 0;
   }
-  
-  .section_grey_light{
-    background-color: #E8E8E8;
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
+  .image_section{
+    width: 70%;
+    margin: 0 0 10px 0;
+  }
+  .text_section_left{
+    width: 90vw;
+    margin: 0 0 10px 0;
+  }
+  .text_section_right{
+    width: 90vw;
+    margin: 0 0 10px 0;
   }
 }
