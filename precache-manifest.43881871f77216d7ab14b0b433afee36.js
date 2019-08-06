@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3433c14e5c8beaa24637070d8f670a2",
+    "revision": "1b5fbf2fe52a08ce0275cf0f8ac86600",
     "url": "/ponnells_plan/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ponnells_plan/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "3f33d3b5d17a740fb01f",
-    "url": "/ponnells_plan/static/css/main.d4b7cd59.chunk.css"
+    "revision": "0b57173707c593e54a58",
+    "url": "/ponnells_plan/static/css/main.a09e2628.chunk.css"
   },
   {
     "revision": "23a8f19767cc2dd98638",
     "url": "/ponnells_plan/static/js/2.034a8bb8.chunk.js"
   },
   {
-    "revision": "3f33d3b5d17a740fb01f",
+    "revision": "0b57173707c593e54a58",
     "url": "/ponnells_plan/static/js/main.6bbe7aeb.chunk.js"
   },
   {
