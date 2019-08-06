@@ -113,16 +113,10 @@
 
 @media(max-width:425px){
   .instagram_feed{
-    background-color: blue;
-    size: 200px;
     margin: 0 0 10px 0;
-    height: 5%;
   }
   .image_section{
-    background-color: blue;
-    size: 200px;
     margin: 0 0 10px 0;
-    height: 5%;
   }
   .text_section_left{
     width: 90vw;
