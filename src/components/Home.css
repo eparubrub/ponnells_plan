@@ -36,27 +36,22 @@
 }
 
 .text_section_left{
-  /* background: salmon; */
   margin: auto;
   padding: 20px;
   width: 48%;
-    /* flex-grow: 1; */
 }
 
 .text_section_right{
-  /* background: salmon; */
   margin: auto;
   padding: 20px;
   width: 48%;
 }
 
 .image_section{
-  /* background: salmon; */
   margin: auto;
   width: 48%;
   max-width: 600px;
   padding: 20px;
-  /* float: right; */
 }
 
 .text_section_title{

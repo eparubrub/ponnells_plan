@@ -11,7 +11,7 @@ class NavbarLight extends Component {
     componentDidMount(){
         window.addEventListener('scroll', () => {
             let activeClass = 'normal';
-            if(window.scrollY > 300){
+            if(window.scrollY > 50){
                 activeClass = 'background2';
             }
             this.setState({ activeClass });
