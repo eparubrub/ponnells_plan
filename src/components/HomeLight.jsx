@@ -30,7 +30,7 @@ class HomeLight extends Component {
             <img className="image_section" src="assets/meeting.jpg"/>
           </div>
 
-          <a id="booking"></a>
+          {/* <a id="booking"></a>
           <div class="section_calendy">
             <div class="calendly">
               <div 
@@ -38,7 +38,7 @@ class HomeLight extends Component {
                     data-url="https://calendly.com/username"
                     style={{ minWidth: '320px', height: '750px' }} />
             </div>
-          </div>
+          </div> */}
 
           <a name="reviews"></a>
           <div class="section image_then_text">
