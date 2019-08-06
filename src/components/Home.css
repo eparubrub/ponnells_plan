@@ -110,11 +110,11 @@
 
 @media(max-width:425px){
   .instagram_feed{
-    width: 70%;
+    size: 200px;
     margin: 0 0 10px 0;
   }
   .image_section{
-    width: 70%;
+    size: 200px;
     margin: 0 0 10px 0;
   }
   .text_section_left{
