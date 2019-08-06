@@ -58,7 +58,7 @@
 
 .image_section{
   /* background: salmon; */
-  margin: auto;
+  margin: auto; 
   width: 48%;
   max-width: 600px;
   padding: 20px;
@@ -113,23 +113,19 @@
 
 @media(max-width:425px){
   .instagram_feed{
-    background-color: blue;
     margin: 0 0 10px 0;
     height: 5%;
   }
   .image_section{
-    background-color: blue;
     margin: 0 0 10px 0;
     height: 5%;
   }
   .text_section_left{
     width: 90vw;
     margin: 0 0 10px 0;
-    height: auto;
   }
   .text_section_right{
     width: 90vw;
     margin: 0 0 10px 0;
-    height: auto;
   }
 }
