@@ -90,46 +90,38 @@
 
 @media(max-width:1000px){
   .instagram_feed{
+    overflow: hidden;
     width: 90vw;
     margin: 0 0 10px 0;
-    height: auto;
   }
   .image_section{
+    overflow: hidden;
     width: 90vw;
     margin: 0 0 10px 0;
-    height: auto;
   }
   .text_section_left{
     width: 90vw;
     margin: 0 0 10px 0;
-    height: auto;
   }
   .text_section_right{
     width: 90vw;
     margin: 0 0 10px 0;
-    height: auto;
   }
 }
 
 @media(max-width:425px){
   .instagram_feed{
-    overflow: hidden;
     margin: 0 0 10px 0;
-    height: 5%;
   }
   .image_section{
-    overflow: hidden;
     margin: 0 0 10px 0;
-    height: 5%;
   }
   .text_section_left{
     width: 90vw;
     margin: 0 0 10px 0;
-    height: auto;
   }
   .text_section_right{
     width: 90vw;
     margin: 0 0 10px 0;
-    height: auto;
   }
 }
