@@ -1,7 +1,4 @@
 
-.body{
-  /* min-width: 550px; */
-}
 
 .profile-pic {
   width: 75%;
@@ -9,6 +6,7 @@
 }
 
 .section{
+  overflow: hidden;
   background-color: white;
   display: flex;
   justify-content: space-around;
@@ -23,6 +21,7 @@
 } */
 
 .section_grey_light{
+  overflow: hidden;
   background-color: #E8E8E8;
   display: flex;
   justify-content: space-around;
@@ -114,16 +113,18 @@
 
 @media(max-width:425px){
   .instagram_feed{
+    overflow: hidden;
     background-color: blue;
     size: 200px;
     margin: 0 0 10px 0;
-    height: auto;
+    height: 5%;
   }
   .image_section{
+    overflow: hidden;
     background-color: blue;
     size: 200px;
     margin: 0 0 10px 0;
-    height: auto;
+    height: 5%;
   }
   .text_section_left{
     width: 90vw;
