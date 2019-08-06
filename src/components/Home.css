@@ -114,15 +114,11 @@
 @media(max-width:425px){
   .instagram_feed{
     overflow: hidden;
-    background-color: blue;
-    size: 200px;
     margin: 0 0 10px 0;
     height: 5%;
   }
   .image_section{
     overflow: hidden;
-    background-color: blue;
-    size: 200px;
     margin: 0 0 10px 0;
     height: 5%;
   }
