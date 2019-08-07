@@ -14,19 +14,20 @@
   width: 100%;
 }
 
-/* .section_grey{
-  height: 700px;
-  width: 100%;
-  background-color: #E8E8E8;
-} */
-
 .section_grey_light{
   overflow: hidden;
-  background-color: #E8E8E8;
+  background-color: #F5F5F5;
   display: flex;
   justify-content: space-around;
   min-height: 90vh;
   width: 100%;
+}
+
+.booking_form{
+  background-color: white;
+  width: 80%;
+  height: 70vh;
+  margin: auto;
 }
 
 .text_then_image{
@@ -35,10 +36,6 @@
 
 .image_then_text{
   flex-flow: row wrap; 
-}
-
-.section_calendy{
-  background-color: #D3D3D3;
 }
 
 .text_section_left{
@@ -86,6 +83,12 @@
 
 .text{
   font-size: 1em;
+}
+
+.section_footer{
+  background-color: #989898;
+  width: 100%;
+  height: 12vh;
 }
 
 @media(max-width:1000px){

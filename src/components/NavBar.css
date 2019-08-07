@@ -1,6 +1,6 @@
 .logo{
     margin-left: 3%;
-    width: 25vw;
+    width: 23vw;
 }
 
 nav{
@@ -10,16 +10,30 @@ nav{
 
 li{
     white-space: nowrap;
-    /* overflow-y: hidden; */
     width: 100%;
-}
+} 
 
 nav a{
     color: white;
-    font-size: 1em;
-    /* font-size: 1.3vw; */
+    font-size: 1.6vw;
+}
+nav a:hover{
+    color: 	#D0D0D0
 }
 
+.nav-link{
+    margin-right: 2.3vw;
+}
+
+.navbar-nav.ml-auto{
+    margin-right: 1vw;
+}
+
+.background2{
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    background-color: #989898;
+}
 @media(max-width:850px){
     .nav-link{display:none}
     .logo{ 
@@ -27,14 +41,8 @@ nav a{
         width: 50%;}
 }
 
-.background{
-    transition-duration: 1s;
-    transition-timing-function: ease;
-    background-color: #303030;
-}
-
 .normal{
-    height: 120px;
+    height: 17vh;
     transition-duration: 1s;
     transition-timing-function: ease;
 }

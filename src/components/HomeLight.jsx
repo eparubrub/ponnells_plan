@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './Home.css';
-import NavBarLight from './NavBarLight.jsx'
+import NavBar from './NavBar.jsx'
 
 
 class HomeLight extends Component {
@@ -17,7 +17,7 @@ class HomeLight extends Component {
   render() {
     return (
       <div className="body">
-      <NavBarLight/>
+      <NavBar/>
       <img className="background-image" src="assets/Hawaii.jpg"/>
           
           <a name="howitworks"></a>
@@ -31,8 +31,8 @@ class HomeLight extends Component {
           </div>
 
           <a id="booking"></a>
-          <div class="section_calendy">
-            
+          <div class="section_grey_light image_then_text">
+            <div class="booking_form"></div>
           </div>
 
           <a name="reviews"></a>
@@ -81,6 +81,11 @@ class HomeLight extends Component {
             </div>
             <img class="image_section" src="assets/Emmit.png"/>
           </div>
+
+      <div class="section_footer">
+
+      </div>
+
     </div>
     )
   }
