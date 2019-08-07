@@ -20,7 +20,7 @@ nav a{
     /* font-size: 1.3vw; */
 }
 
-@media(max-width:1000px){
+@media(max-width:850px){
     .nav-link{display:none}
     .logo{ 
         position: relative;
