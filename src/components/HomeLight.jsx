@@ -83,7 +83,10 @@ class HomeLight extends Component {
           </div>
 
       <div class="section_footer">
-
+        <div class="footer">
+              © 2019 Copyright: 
+              <a className="footer_link" href="http://eparubrub.github.io"> Powered By Emmit Parubrub</a>
+          </div>
       </div>
 
     </div>
