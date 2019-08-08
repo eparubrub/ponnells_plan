@@ -42,7 +42,7 @@ nav a:hover{
 }
 
 .normal{
-    height: 17vh;
+    height: 10vh;
     transition-duration: 1s;
     transition-timing-function: ease;
 }
