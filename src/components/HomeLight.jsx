@@ -42,7 +42,10 @@ class HomeLight extends Component {
                 <ul class="juicer-feed" data-feed-id="emmitario"><h1 class="referral"></h1></ul>
              </div>
              <div class="text_section_right">
-                  <h1 class="text_section_title">Reviews/Social Media</h1>
+                  <h1 class="text_section_title">
+                    Reviews/Social Media 
+                    <a href="https://www.instagram.com/ponnellsplan/"><img class="social_media_icon" src="assets/instagram.png"/></a>
+                  </h1>
                   <p className="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus tempus nisi eget congue. Vivamus id nisi erat. Curabitur sit amet volutpat risus. Donec sit amet cursus est. Vivamus facilisis sem lorem, eu lacinia eros vulputate sit amet. Donec dignissim posuere orci, sed tempus neque. Nullam quis elementum ante, posuere euismod neque. Mauris tellus risus, tempor vel ante eu, venenatis vestibulum urna. Ut eu aliquam nibh. Suspendisse potenti. Sed enim nibh, tristique eu ligula ac, imperdiet convallis ipsum.
                       Pellentesque vel luctus arcu. Suspendisse vitae nibh metus. Curabitur id velit nec magna dignissim imperdiet. Fusce vitae augue elit. Vivamus sagittis pulvinar massa vitae sagittis. Pellentesque ac lacinia lectus, sit amet fermentum turpis. Ut sit amet congue tellus. Pellentesque consectetur lectus et mollis ultricies. Aliquam cursus erat id commodo facilisis. Phasellus velit nisl, condimentum vitae tincidunt in, venenatis nec nisl.</p>
                 </div>
@@ -52,7 +55,11 @@ class HomeLight extends Component {
           <a name="Ashley"></a>
           <div class="section_grey_light text_then_image">
             <div class="text_section_left">
-              <h1 class="text_section_title">Ashley P. Walker</h1>
+              <h1 class="text_section_title">
+                Ashley P. Walker 
+                <a href="https://www.instagram.com/ponnellsplan/"><img class="social_media_icon" src="assets/instagram.png"/></a>
+                <img class="social_media_icon" src="assets/twitter.png"/>
+                </h1>
               <p>I am the founder of Ponnell's Plan! I graduated from Montclair State University with a Bachelor's in Family Science and Human Development and a Master's in the Arts of Teaching. 
                 Since I am an educator, my students and I often go on new adventures through literature. Traveling can give you the opportunity to learn, influence and grow in various ways. 
                 You can learn a lot from people of all different people and environments! I have traveled to about 10 different countries and have found that the experiences gained are like no other. 
@@ -65,7 +72,11 @@ class HomeLight extends Component {
           <div class="section image_then_text">
             <img class="image_section" src="assets/Chantelle.png"/>
             <div class="text_section_right">
-              <h1 class="text_section_title">Chantelle Patel</h1>
+              <h1 class="text_section_title">
+                Chantelle Patel 
+                <img class="social_media_icon" src="assets/instagram.png"/>
+                <img class="social_media_icon" src="assets/twitter.png"/>
+                </h1>
               <p>I graduated with from Quinnipiac Schools of Business with a Bachelor of Science degree in Marketing and Public Relations. 
                 I love working with clients and showcasing their best skills. My passions include traveling, experiencing different people 
                 and cultures and being able to promote those through various social media platforms. </p>
@@ -75,7 +86,11 @@ class HomeLight extends Component {
           <a name="Emmit"></a>
           <div class="section_grey_light text_then_image">
             <div class="text_section_left">
-              <h1 class="text_section_title">Emmit Parubrub</h1>
+              <h1 class="text_section_title">
+                Emmit Parubrub 
+                <a href="https://www.instagram.com/emmitario/"><img class="social_media_icon" src="assets/instagram.png"/></a>
+                <img class="social_media_icon" src="assets/twitter.png"/>
+              </h1>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus tempus nisi eget congue. Vivamus id nisi erat. Curabitur sit amet volutpat risus. Donec sit amet cursus est. Vivamus facilisis sem lorem, eu lacinia eros vulputate sit amet. Donec dignissim posuere orci, sed tempus neque. Nullam quis elementum ante, posuere euismod neque. Mauris tellus risus, tempor vel ante eu, venenatis vestibulum urna. Ut eu aliquam nibh. Suspendisse potenti. Sed enim nibh, tristique eu ligula ac, imperdiet convallis ipsum.
                   Pellentesque vel luctus arcu. Suspendisse vitae nibh metus. Curabitur id velit nec magna dignissim imperdiet. Fusce vitae augue elit. Vivamus sagittis pulvinar massa vitae sagittis. Pellentesque ac lacinia lectus, sit amet fermentum turpis. Ut sit amet congue tellus. Pellentesque consectetur lectus et mollis ultricies. Aliquam cursus erat id commodo facilisis. Phasellus velit nisl, condimentum vitae tincidunt in, venenatis nec nisl.</p>
             </div>

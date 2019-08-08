@@ -39,27 +39,22 @@
 }
 
 .text_section_left{
-  /* background: salmon; */
   margin: auto;
   padding: 20px;
   width: 48%;
-    /* flex-grow: 1; */
 }
 
 .text_section_right{
-  /* background: salmon; */
   margin: auto;
   padding: 20px;
   width: 48%;
 }
 
 .image_section{
-  /* background: salmon; */
   margin: auto; 
   width: 48%;
   max-width: 600px;
   padding: 20px;
-  /* float: right; */
 }
 
 .text_section_title{
@@ -107,6 +102,11 @@ a.footer_link, a.footer_link:link, a.footer_link:visited, a.footer_link:focus, a
 
 a.footer_link:hover{
   color: white;
+}
+
+.social_media_icon{
+  width: 1.4em;
+  height: auto;
 }
 
 @media(max-width:1000px){
