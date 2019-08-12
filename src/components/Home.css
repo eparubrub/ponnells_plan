@@ -5,6 +5,18 @@
   margin-bottom: 30px;
 }
 
+.flex_box{
+  display: flex;
+}
+
+.form{
+  margin-top: 5vh;
+}
+
+.center{
+  margin: auto;
+}
+
 .section{
   overflow: hidden;
   background-color: white;
@@ -23,10 +35,17 @@
   width: 100%;
 }
 
-.booking_form{
+.booking_form_container{
   background-color: white;
   width: 80%;
+  display: flex;
   height: 70vh;
+  margin: auto;
+}
+
+.booking_form{
+  width: 90%;
+  height: 90%;
   margin: auto;
 }
 
@@ -107,6 +126,10 @@ a.footer_link:hover{
 .social_media_icon{
   width: 1.4em;
   height: auto;
+}
+
+.submit_button{
+  margin: auto
 }
 
 @media(max-width:1000px){
