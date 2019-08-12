@@ -124,8 +124,8 @@ a.footer_link:hover{
 }
 
 .social_media_icon{
-  width: 1.4em;
-  height: auto;
+  width: auto;
+  height: 1em;
 }
 
 .submit_button{
